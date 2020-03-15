@@ -1,3 +1,3 @@
-# ClayTechJavaDocs
-a Javadoc for ClayTech.
-http://claytech.claycoffee.space/javadocs/
+# ClayTechWebsite
+a Website for ClayTech.
+javadocs: http://claytech.claycoffee.space/javadocs/
