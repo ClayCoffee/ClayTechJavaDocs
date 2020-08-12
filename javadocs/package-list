@@ -1,3 +1,11 @@
 club.claycoffee.ClayTech
 club.claycoffee.ClayTech.api
+club.claycoffee.ClayTech.api.events
+club.claycoffee.ClayTech.implementation.Planets
+club.claycoffee.ClayTech.implementation.Planets.populators
 club.claycoffee.ClayTech.implementation.abstractMachines
+club.claycoffee.ClayTech.implementation.items
+club.claycoffee.ClayTech.implementation.machines
+club.claycoffee.ClayTech.implementation.resources
+club.claycoffee.ClayTech.listeners
+club.claycoffee.ClayTech.utils
